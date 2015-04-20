@@ -1,0 +1,48 @@
+body {
+    background-color: #006666;
+}
+
+.container {
+    background-color: #194884;
+    border-radius: 25px;
+    width: 300px;
+}
+
+h1{
+    color: #black;
+}
+
+h3 {
+    color: #2D208C;
+}
+
+h5 {
+    color: #black;
+}
+
+.left {
+    position: absolute;
+    left: 50px;
+    background-color: #0F8366;
+    border-radius: 25px;
+    width: 300px;
+    text-align:center;
+}
+
+.right {
+    position:absolute;
+    right: 50px;
+    background-color: #0F8366;
+    border-radius: 25px;
+    width: 300px;
+    text-align: center;
+}
+
+.center {
+    position: absolute;
+    right: 450px;
+    background-color: #0F8366;
+    border-radius: 25px;
+    width: 300px;
+    text-align: center;
+}
